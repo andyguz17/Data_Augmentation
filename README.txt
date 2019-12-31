@@ -8,5 +8,5 @@ Dependencies
 
 Notes
 	To use the library you will need your image data and their xml annotations 	
-	It will help you to generate the augmented data and it's respective xml
+	It will help you to generate the augmented data and its respective xml
 	 
