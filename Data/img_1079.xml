@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>img_1079.jpg</filename>
+	<path>E:\Data_Augmentation - copia\data\img_1079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>minibus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1119</xmin>
+			<ymin>429</ymin>
+			<xmax>1198</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>automovil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1028</xmin>
+			<ymin>423</ymin>
+			<xmax>1085</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
